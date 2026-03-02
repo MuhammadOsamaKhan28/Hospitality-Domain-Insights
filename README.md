@@ -51,17 +51,17 @@ Matrix Table (Property-level metrics)
 
 🔹 Business Insights Generated
       
-      Identified $1.71B total revenue with 135K+ bookings.
+Identified $1.71B total revenue with 135K+ bookings.
       
-      Analyzed performance differences between Weekday vs Weekend bookings.
+Analyzed performance differences between Weekday vs Weekend bookings.
       
-      Compared revenue by Room Class (Elite, Premium, Presidential, Standard).
+Compared revenue by Room Class (Elite, Premium, Presidential, Standard).
       
-      Evaluated City-wise revenue contribution (Mumbai, Bangalore, Hyderabad, Delhi).
+Evaluated City-wise revenue contribution (Mumbai, Bangalore, Hyderabad, Delhi).
       
-      Tracked Occupancy % and Average Ratings trends across weeks.
+Tracked Occupancy % and Average Ratings trends across weeks.
       
-      Measured cancellation impact by month and city.
+Measured cancellation impact by month and city.
 
 🔹 Data Model
   
@@ -77,10 +77,10 @@ Applied proper relationships and optimized model performance.
 
 🔹 Tools & Skills Used
       
-      Power BI
-      DAX
-      Data Modeling (Star Schema)
-      Business Intelligence
-      Data Visualization
-      KPI & Performance Analysis
+Power BI
+DAX
+Data Modeling (Star Schema)
+Business Intelligence
+Data Visualization
+KPI & Performance Analysis
 
